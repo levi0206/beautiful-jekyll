@@ -5,7 +5,7 @@ subtitle: Machine Learning Reading Group
 ---
 Welcome the machine learning reading group! Before becoming a part of our community, we kindly request you to review the following information carefully.
 ### About this group
-The topics and content are listed in this [page](https://levi0206.github.io/mlreadinggroup/resources/). Each individual is encouraged to select a topic that hasn't already been chosen by others. The duration of the study group is set to span one year (2023-2024).
+The topics and content are listed in this [page](https://absorbed-breadfruit-366.notion.site/Machine-Learning-Reading-Group-206d210a777a428baf874b43d0dcb7e4). Each individual is encouraged to select a topic that hasn't already been chosen by others. The duration of the study group is set to span one year (2023-2024).
 
 Meeting schedule: every Tuesday 19:00-20:00, starting from 9/5 2023. 
 
