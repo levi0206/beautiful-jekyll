@@ -97,7 +97,7 @@ Scikit-learn
 
 Reading
 
-- [BS]Chap 12, 14
+- [BS] Chap 12, 14
 
 Scikit-learn
 
@@ -312,10 +312,11 @@ Reading
 - NIPS 2016 Tutorial: Generative Adversarial Networks
   - [https://arxiv.org/abs/1701.00160](https://arxiv.org/abs/1701.00160)
 - Wasserstein Generative Adversarial Networks
-  - https://proceedings.mlr.press/v70/arjovsky17a.html
+  - [https://proceedings.mlr.press/v70/arjovsky17a.html](https://proceedings.mlr.press/v70/arjovsky17a.html)
 - Towards Principled Methods for Training Generative Adversarial Networks
   - [https://arxiv.org/abs/1701.04862](https://arxiv.org/abs/1701.04862)
-- How to Evaluate Generative Adversarial Networks ****https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/
+- How to Evaluate Generative Adversarial Networks
+  - [https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/](https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/)
 - Pros and Cons of GAN Evaluation Measures 
   - [https://arxiv.org/abs/1802.03446](https://arxiv.org/abs/1802.03446)
 
@@ -398,7 +399,7 @@ Exercise
 ### Python Packages for ML
 
 scikit-learn
-  - https://scikit-learn.org/stable/index.html
+  - [https://scikit-learn.org/stable/index.html](https://scikit-learn.org/stable/index.html)
 
 PyTorch
 
