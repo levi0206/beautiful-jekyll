@@ -27,10 +27,8 @@ There's no restriction to the packages you use. You can use any package you want
 ### Members
 - Organizer: Le-Rong Hsu
 - Advisor: Shen-Ning Tung (personal website: [here](https://sites.google.com/view/sntung/homepage?authuser=0))
-- Notes contributors:
+- Members:
   - Le-Rong Hsu 
   - De-Jin Huang 
 
 
-
-Le-Rong Hsu
