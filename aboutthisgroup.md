@@ -30,13 +30,13 @@ You just have to prepare your notes for your presentation. **Participants are we
 - Group leader/Website maintainer: Le-Rong Hsu
 - Advisor: Shen-Ning Tung (personal website: [here](https://sites.google.com/view/sntung/homepage?authuser=0))
 - Notes contributors:
-  - Le-Rong Hsu (RNN and LSTM/Autoencoder/GAN)
-  - De-Jin Huang (Neural Networks)
+  - Le-Rong Hsu 
+  - De-Jin Huang 
 
 - Programming assignment contributors:
-  - Le-Rong Hsu (CNN/Autoencoder/GAN/Signature)
+  - Le-Rong Hsu
+  - De-Jin Huang 
 
 
-Best, 
 
 Le-Rong Hsu
