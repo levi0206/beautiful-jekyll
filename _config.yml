@@ -21,7 +21,7 @@ author: Le-Rong Hsu
 
 navbar-links:
   About This Group: "aboutthisgroup"
-  Resources: "resources"
+  # Resources: "resources"
   Schedule: "schedule"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
