@@ -162,7 +162,7 @@ Lecture
 - Multilayer Perceptrons
   - [https://youtu.be/Veegg0knnhQ?si=LjdJWMA1814RzsiO](https://youtu.be/Veegg0knnhQ?si=LjdJWMA1814RzsiO)
 - Deep Networks
-  - [ https://youtu.be/PWAFlAarVs0?si=xT63j10uamuxfSAJ](https://youtu.be/PWAFlAarVs0?si=xT63j10uamuxfSAJ)
+  - [https://youtu.be/PWAFlAarVs0?si=xT63j10uamuxfSAJ](https://youtu.be/PWAFlAarVs0?si=xT63j10uamuxfSAJ)
   - [https://youtu.be/SyNB8aiWd5Y?si=EhmNpZKk-5-W7cde](https://youtu.be/SyNB8aiWd5Y?si=EhmNpZKk-5-W7cde)
 
 PyTorch
@@ -184,7 +184,7 @@ Exercise
 
 - Implement deep hedging & deep portfolio optimization using PyTorch
   - [https://gist.github.com/jteichma/4d9c0079dbf4e9c3cdff3fd1befabd23](https://gist.github.com/jteichma/4d9c0079dbf4e9c3cdff3fd1befabd23)
-  - (https://gist.github.com/jteichma/b0f04c4f6f74aa3a08e7fa627d35be30)[https://gist.github.com/jteichma/b0f04c4f6f74aa3a08e7fa627d35be30]
+  - [https://gist.github.com/jteichma/b0f04c4f6f74aa3a08e7fa627d35be30](https://gist.github.com/jteichma/b0f04c4f6f74aa3a08e7fa627d35be30)
  
 Reading
 
@@ -195,7 +195,9 @@ Reading
   - [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
 - Revisiting Deep Learning Models for Tabular Data 
   - [https://arxiv.org/abs/2106.11959](https://arxiv.org/abs/2106.11959)
-- http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+- Conv Nets: A Modular Perspective
+  - [http://colah.github.io/posts/2014-07-Conv-Nets-Modular/](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+- Understanding Convolutions
   - [http://colah.github.io/posts/2014-07-Understanding-Convolutions/](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 Lecture
