@@ -6,7 +6,7 @@ subtitle: Designed Topics and Meeting Schedule
 
 ## Designed Topics
 Notes:
--  Le-Rong Hsu
+- Le-Rong Hsu
   - RNN and LSTM
   - Autoencoder
   - GAN
