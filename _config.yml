@@ -20,11 +20,13 @@ author: Le-Rong Hsu
 ###############################################
 
 navbar-links:
-  Content: "content"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   About This Group: "aboutthisgroup"
+  Content: "content"
+  Schedule: "schedule"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 ################
 # --- Logo --- #
