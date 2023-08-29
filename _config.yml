@@ -52,8 +52,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "fangq0206@gmail.com"
-  github: Machine-Learning-Reading-Group
+  # email: "fangq0206@gmail.com"
+  # github: Machine-Learning-Reading-Group
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
