@@ -365,17 +365,17 @@ Exercise
 [Ben-David, Shalev-Shwartz] Understanding Machine Learning
 
 [Bengio, Courville, Goodfellow] Deep Learning 
-  - https://www.deeplearningbook.org/
+  - [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
 
 [Geiger] Deep learning lecture notes 
-  - https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view
+  - [https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view](https://drive.google.com/file/d/16TaFr6d3eZXNkShgJJxaf6CN7xz1eOBs/view)
 
 [Hastie, Tibshirani, Friedman] The Elements of Statistical Learning
 
 [Haykin] Neural Networks and Learning Machines
 
 [Herberg] Neural network architectures 
-  - https://arxiv.org/abs/2304.05133
+  - [https://arxiv.org/abs/2304.05133](https://arxiv.org/abs/2304.05133)
 
 [James, Witten, Hastie, Tibshirani] Introduction to Statistical Learning
 
@@ -383,7 +383,7 @@ Exercise
 
 ### Online Course
 
-[DeepMind x UCL | Deep Learning Lecture Series 2020](https://youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&si=imr309eNCk_AXDBo)
+[DeepMind x UCL  Deep Learning Lecture Series 2020](https://youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&si=imr309eNCk_AXDBo)
 
 [CS 480/680 - Introduction to Machine Learning - Spring 2021](https://youtube.com/playlist?list=PLmd_zeMNzSvSzRRc4Q29qEcpxbhdwjMOx&si=ru7QfTms-xKAv0Is)
 
