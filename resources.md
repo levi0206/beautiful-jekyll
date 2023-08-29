@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Content
+title: Resources
 subtitle: Machine Learning X Financial Mathematics
 ---
 
