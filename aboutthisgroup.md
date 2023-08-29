@@ -24,15 +24,11 @@ There's no restriction to the packages you use. You can use any package you want
 ### About your presentation
 **If you're ready, you can present**. You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
 
-### Faculty
-- Group leader/Website maintainer: Le-Rong Hsu
+### Members
+- Organizer: Le-Rong Hsu
 - Advisor: Shen-Ning Tung (personal website: [here](https://sites.google.com/view/sntung/homepage?authuser=0))
 - Notes contributors:
   - Le-Rong Hsu 
-  - De-Jin Huang 
-
-- Programming assignment contributors:
-  - Le-Rong Hsu
   - De-Jin Huang 
 
 
