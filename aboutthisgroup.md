@@ -22,7 +22,7 @@ For programming assignment contributors, please provide your environment setting
 There's no restriction to the packages you use. You can use any package you want to use. Feel free to add comments for clarity. 
 
 ### About your presentation
-You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
+**If you're ready, you can present**. You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
 
 ### Faculty
 - Group leader/Website maintainer: Le-Rong Hsu
