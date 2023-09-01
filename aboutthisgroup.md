@@ -29,6 +29,8 @@ There's no restriction to the packages you use. You can use any package you want
 - Advisor: Shen-Ning Tung (personal website: [here](https://sites.google.com/view/sntung/homepage?authuser=0))
 - Members:
   - Le-Rong Hsu 
-  - De-Jin Huang 
+  - De-Jin Huang
+  - Lu-Nung Chang
+  - Wen-Chung Tsai
 
 
