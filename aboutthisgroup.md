@@ -20,7 +20,7 @@ For programming assignment contributors, please furnish your environment setting
 - packages versions, including: python, torch, tensorflow, matplotlob, numpy, ...
 
 There are no restrictions regarding the packages you may use; feel free to employ any packages that best suit your needs. Adding comments for clarity is encouraged.
-### About your presentation
+### About presentation
 **If you are prepared, you may proceed with your presentation**. You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
 
 ### Members
