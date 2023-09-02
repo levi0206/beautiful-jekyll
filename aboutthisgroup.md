@@ -12,17 +12,16 @@ Meeting schedule: Sunday 19:00-21:00, starting from 9/9 2023.
 GitHub repository: [https://github.com/levi0206/Machine-Learning-Reading-Group](https://github.com/levi0206/Machine-Learning-Reading-Group)
 
 ### Formatting
-If you're interested in contributing notes, ensure that your content is well-structured and covers motivation, frameworks, algorithms, intricate details and references. Feel free to incorporate key **mathematical theorems** along with insightful proofs, emphasizing the significance of each theorem and any unique techniques employed in the proofs. Additionally, when inserting images into your notes, please offer sufficient explanations for clarity. We especially focus on the **details**, **not simply the model structure and intuition**. Your notes should be written with **Markdown** (in convenience of editting).
+If you're interested in contributing notes, ensure that your content is well-structured and covers motivation, frameworks, algorithms, intricate details and references. Feel free to incorporate key **mathematical theorems** along with insightful proofs, emphasizing the significance of each theorem and any unique techniques employed in the proofs. Additionally, when inserting images into your notes, please offer sufficient explanations for clarity. We particularly emphasize the importance of detailing, focusing not solely on the model's structure and intuition. Your notes should be composed using Markdown for ease of editing.
 
-For programming assignment contributors, please provide your environment setting in addition to your code, including:
+For programming assignment contributors, please furnish your environment settings in addition to your code. This should include 
 - computer architecture: x86_64, arm64, ...
 - operating system: windows10, windows11, macos big sur, linux, ...
 - packages versions, including: python, torch, tensorflow, matplotlob, numpy, ...
 
-There's no restriction to the packages you use. You can use any package you want to use. Feel free to add comments for clarity. 
-
+There are no restrictions regarding the packages you may use; feel free to employ any packages that best suit your needs. Adding comments for clarity is encouraged.
 ### About your presentation
-**If you're ready, you can present**. You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
+**If you are prepared, you may proceed with your presentation.**. You just have to prepare your notes for your presentation. **Participants are welcome to present even if their notes/code are incomplete**. Active engagement is encouraged. If you get stuck somewhere, we can find the solution together during the meeting. 
 
 ### Members
 - Organizer: Le-Rong Hsu
