@@ -5,7 +5,7 @@ subtitle: Machine Learning Reading Group
 ---
 Welcome the machine learning reading group! Before becoming a part of our community, we kindly request you to review the following information carefully.
 ### About this group
-The topics and content are listed in this [Notion page](https://absorbed-breadfruit-366.notion.site/Machine-Learning-Reading-Group-206d210a777a428baf874b43d0dcb7e4); for the research projects, please refer to this [website](https://even-sailfish-d3c.notion.site/Research-Project-8e45688d6c59495ab58229bfdf99caee). Each individual is encouraged to select a topic that hasn't already been chosen by others. The duration of the study group is set to span one year (2023-2024).
+The topics and content are listed in this [Notion page](https://absorbed-breadfruit-366.notion.site/Machine-Learning-Reading-Group-206d210a777a428baf874b43d0dcb7e4?pvs=4); for the research projects, please refer to this [page](https://even-sailfish-d3c.notion.site/Research-Project-8e45688d6c59495ab58229bfdf99caee). Each individual is encouraged to select a topic that hasn't already been chosen by others. The duration of the study group is set to span one year (2023-2024).
 
 Meeting schedule: Sunday 19:00-21:00 
 
