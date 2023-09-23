@@ -8,3 +8,4 @@ subtitle: Designed Topics and Meeting Schedule
 September, 2023
 - 9/10 19:00~21:00 Le-Rong Hsu
 - 9/17 20:00~21:00 De-Jin Huang
+- 9/23 20:00~21:00 Chen-Chung Yang
